@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tabsSwithing/static/css/main.e6c13ad2.css",
+    "main.js": "/tabsSwithing/static/js/main.1f9d9cf5.js",
+    "static/js/601.ad592a00.chunk.js": "/tabsSwithing/static/js/601.ad592a00.chunk.js",
+    "static/js/406.961a8432.chunk.js": "/tabsSwithing/static/js/406.961a8432.chunk.js",
+    "static/js/269.b25cb6ef.chunk.js": "/tabsSwithing/static/js/269.b25cb6ef.chunk.js",
+    "static/js/787.552ec71f.chunk.js": "/tabsSwithing/static/js/787.552ec71f.chunk.js",
+    "index.html": "/tabsSwithing/index.html",
+    "main.e6c13ad2.css.map": "/tabsSwithing/static/css/main.e6c13ad2.css.map",
+    "main.1f9d9cf5.js.map": "/tabsSwithing/static/js/main.1f9d9cf5.js.map",
+    "601.ad592a00.chunk.js.map": "/tabsSwithing/static/js/601.ad592a00.chunk.js.map",
+    "406.961a8432.chunk.js.map": "/tabsSwithing/static/js/406.961a8432.chunk.js.map",
+    "269.b25cb6ef.chunk.js.map": "/tabsSwithing/static/js/269.b25cb6ef.chunk.js.map",
+    "787.552ec71f.chunk.js.map": "/tabsSwithing/static/js/787.552ec71f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1f9d9cf5.js"
+  ]
+}

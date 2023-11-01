@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktabs_switching=self.webpackChunktabs_switching||[]).push([[601],{601:function(t,s,n){n.r(s);n(791);var e=n(184);s.default=function(){return(0,e.jsx)("table",{children:(0,e.jsxs)("tr",{children:[(0,e.jsx)("td",{children:"Dummy"}),(0,e.jsx)("td",{children:"Chart"})]})})}}}]);
+//# sourceMappingURL=601.ad592a00.chunk.js.map
